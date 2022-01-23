@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Here we can say lots of fun things about the Digital Minor which would be shown on the site.
 
-Maybe say a some things about yourself.
 
-Or maybe what you plan to blog about.
+Or what we plan to write blogs about.
